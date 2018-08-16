@@ -1,0 +1,16 @@
+C:\Users\emmett.moore\source\repos\OOP\ACM.BLTest\obj\Debug\ACM.BLTest.csprojResolveAssemblyReference.cache
+C:\Users\emmett.moore\source\repos\OOP\ACM.BLTest\obj\Debug\ACM.BLTest.csproj.CoreCompileInputs.cache
+C:\Users\emmett.moore\source\repos\OOP\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\emmett.moore\source\repos\OOP\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\emmett.moore\source\repos\OOP\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\emmett.moore\source\repos\OOP\ACM.BLTest\bin\Debug\ACM.BLTest.dll
+C:\Users\emmett.moore\source\repos\OOP\ACM.BLTest\bin\Debug\ACM.BLTest.pdb
+C:\Users\emmett.moore\source\repos\OOP\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\emmett.moore\source\repos\OOP\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\emmett.moore\source\repos\OOP\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\emmett.moore\source\repos\OOP\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\emmett.moore\source\repos\OOP\ACM.BLTest\obj\Debug\ACM.BLTest.dll
+C:\Users\emmett.moore\source\repos\OOP\ACM.BLTest\obj\Debug\ACM.BLTest.pdb
+C:\Users\emmett.moore\source\repos\OOP\ACM.BLTest\bin\Debug\ACM.BL.exe
+C:\Users\emmett.moore\source\repos\OOP\ACM.BLTest\bin\Debug\ACM.BL.pdb
+C:\Users\emmett.moore\source\repos\OOP\ACM.BLTest\bin\Debug\ACM.BL.exe.config

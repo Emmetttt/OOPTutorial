@@ -1,0 +1,7 @@
+C:\Users\emmett.moore\source\repos\OOP\Customer\obj\Debug\ACM.BL.csprojResolveAssemblyReference.cache
+C:\Users\emmett.moore\source\repos\OOP\Customer\obj\Debug\ACM.BL.csproj.CoreCompileInputs.cache
+C:\Users\emmett.moore\source\repos\OOP\Customer\bin\Debug\ACM.BL.exe.config
+C:\Users\emmett.moore\source\repos\OOP\Customer\bin\Debug\ACM.BL.exe
+C:\Users\emmett.moore\source\repos\OOP\Customer\bin\Debug\ACM.BL.pdb
+C:\Users\emmett.moore\source\repos\OOP\Customer\obj\Debug\ACM.BL.exe
+C:\Users\emmett.moore\source\repos\OOP\Customer\obj\Debug\ACM.BL.pdb

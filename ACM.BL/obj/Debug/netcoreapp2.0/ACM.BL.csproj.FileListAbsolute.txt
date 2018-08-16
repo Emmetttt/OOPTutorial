@@ -1,0 +1,9 @@
+C:\Users\emmett.moore\source\repos\OOP\ACM.BL\bin\Debug\netcoreapp2.0\ACM.BL.deps.json
+C:\Users\emmett.moore\source\repos\OOP\ACM.BL\bin\Debug\netcoreapp2.0\ACM.BL.dll
+C:\Users\emmett.moore\source\repos\OOP\ACM.BL\bin\Debug\netcoreapp2.0\ACM.BL.pdb
+C:\Users\emmett.moore\source\repos\OOP\ACM.BL\obj\Debug\netcoreapp2.0\ACM.BL.csprojResolveAssemblyReference.cache
+C:\Users\emmett.moore\source\repos\OOP\ACM.BL\obj\Debug\netcoreapp2.0\ACM.BL.csproj.CoreCompileInputs.cache
+C:\Users\emmett.moore\source\repos\OOP\ACM.BL\obj\Debug\netcoreapp2.0\ACM.BL.AssemblyInfoInputs.cache
+C:\Users\emmett.moore\source\repos\OOP\ACM.BL\obj\Debug\netcoreapp2.0\ACM.BL.AssemblyInfo.cs
+C:\Users\emmett.moore\source\repos\OOP\ACM.BL\obj\Debug\netcoreapp2.0\ACM.BL.dll
+C:\Users\emmett.moore\source\repos\OOP\ACM.BL\obj\Debug\netcoreapp2.0\ACM.BL.pdb
